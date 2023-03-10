@@ -1,13 +1,5 @@
-# Продвинутый JavaScript в браузере
+# sse-ws
 
-## [Домашнее задание к лекции «sse-ws»](https://github.com/TomSG03/ahj-homeworks/tree/simplification/sse-ws)
+[project](https://Dzuba110729.github.io/ahj-sse-ws/)
 
-- [x] Chat
-- [x] [Chat - Server](https://github.com/TomSG03/ahj-ws-chat)
-
-[![CircleCI](https://circleci.com/gh/TomSG03/ahj-ws-chat-fe/tree/main.svg?style=svg)](https://circleci.com/gh/TomSG03/ahj-ws-chat-fe/tree/main)
-
-## [Gh-Pages](https://tomsg03.github.io/ahj-ws-chat-fe/)
-
----
-[Спискок задач](https://github.com/TomSG03/ahs-homeworks-list)
+[![Build status](https://ci.appveyor.com/api/projects/status/3jsbenm5kw7bqjsu/branch/master?svg=true)](https://ci.appveyor.com/project/Dzuba110729/ahj-sse-ws)
